@@ -19,6 +19,7 @@ Install with [npm](http://github.com/isaacs/npm):
 
 #### SparkToken(consumerKey, consumerSecret, callbackURL)
 ```
+    var SparkToken = require('spark-token')
     var sparkToken = new SparkToken('1111c127579545adeb55226aa8857986c6e1ab4a67ec907c39b879bf2aaaaaaaa','ffffffffd0a01af12a627e5d8772055564a5d873ba913e971c1883b7eeeeeeee','https://chester.tpcall.me/callback' )
 ```
 
